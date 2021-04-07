@@ -1,0 +1,1 @@
+the final code shows the following: the header, the total months, the total amount of profit/loss for the entire period, the average change over the period, the greatest increase, and the greatest decrease all over the entire period. 
